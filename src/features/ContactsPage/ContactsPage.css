@@ -1,0 +1,12 @@
+.contacts-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.contacts-container {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+}
